@@ -2,7 +2,7 @@
 <html lang="en">
 <body>
 
-  <h1>🚀 Flutter Clean Architecture Boilerplate</h1>
+  <h1>🚀 Flutter Clean Architecture (TDD) Boilerplate</h1>
   <p>
     A ready-to-use project structure for scalable and testable Flutter apps using Clean Architecture principles and Test-Driven Development (TDD).
   </p>
