@@ -36,10 +36,10 @@ lib/
 
 test/
 └── features/
-    └── auth/
-        ├── data/
-        ├── domain/
-        └── presentation/
+.   └── auth/
+.       ├── data/
+.       ├── domain/
+.       └── presentation/
     </pre>
   </div>
 
