@@ -33,7 +33,7 @@ lib/
 │       ├── domain/
 │       └── presentation/
 └── main.dart
-
+.
 test/
 └── features/
 .   └── auth/
