@@ -88,6 +88,18 @@ test/
   <!-- <div class="important"> -->
 <div class="highlight">
     <strong>Platform Note:</strong> This script runs best on macOS/Linux. Use Git Bash or WSL on Windows.
+  # ⚙️ Flutter Clean Architecture Project Generator (Windows version)
+
+## 🚀 Setup Instructions (for Windows)
+
+### Option 1: Run via Git Bash (Recommended)
+
+1. Install [Git for Windows](https://git-scm.com/downloads)
+2. Open **Git Bash** in the folder containing `script.sh`
+3. Run:
+   ```bash
+   bash script.sh <your_app_name>
+
   </div>
 
   <footer>
